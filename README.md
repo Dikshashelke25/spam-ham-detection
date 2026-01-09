@@ -3,14 +3,14 @@
 An end-to-end Machine Learning & NLP project that classifies SMS or email messages as Spam or Ham (Not Spam).
 The project includes EDA, preprocessing, model training, evaluation, and deployment using Streamlit.
 
-🚀 Project Overview
+## 🚀 Project Overview
 
 Spam messages are unsolicited, promotional, or potentially harmful texts.
 This project aims to automatically detect spam messages using Natural Language Processing (NLP) and Machine Learning techniques.
 
 The final output is a deployed web application where users can input a message and instantly get a prediction.
 
-🧠 Problem Statement
+## 🧠 Problem Statement
 
 To build an intelligent system that can:
 
