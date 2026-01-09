@@ -20,7 +20,7 @@ Learn patterns associated with spam messages
 
 Accurately classify messages as Spam or Ham
 
-📊 Dataset Description
+## 📊 Dataset Description
 
 The dataset contains SMS messages labeled as spam or ham.
 
@@ -32,7 +32,7 @@ Spam → Unwanted or promotional messages
 
 Ham → Legitimate messages
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Python
 
@@ -46,7 +46,8 @@ Streamlit
 
 Pickle
 
-🧩 Project Workflow (Sprint-wise)
+## 🧩 Project Workflow (Sprint-wise)
+
 🟢 Sprint 0: Exploratory Data Analysis (EDA)
 
 Data understanding and cleaning
@@ -91,7 +92,7 @@ Real-time message classification
 
 User-friendly interface
 
-🏗️ NLP Architecture
+## 🏗️ NLP Architecture
 Input Message
       ↓
 Text Preprocessing
@@ -102,7 +103,7 @@ Naive Bayes Classifier
       ↓
 Spam / Ham Prediction
 
-📈 Model Performance
+## 📈 Model Performance
 
 High accuracy on test data
 
@@ -110,7 +111,8 @@ Strong precision for spam detection
 
 Suitable for real-world text classification tasks
 
-🖥️ Streamlit Web App
+## 🖥️ Streamlit Web App
+
 Features:
 
 Text input for SMS/email
@@ -122,7 +124,8 @@ Clear visual feedback
 Run Locally:
 streamlit run app.py
 
-📁 Project Structure
+## 📁 Project Structure
+
 spam-ham-classifier/
 │
 ├── app.py
@@ -133,7 +136,7 @@ spam-ham-classifier/
 ├── requirements.txt
 └── README.md
 
-📦 Installation & Setup
+## 📦 Installation & Setup
 
 Clone the repository
 
@@ -150,7 +153,7 @@ Run the app
 
 streamlit run app.py
 
-✅ Key Learnings
+## ✅ Key Learnings
 
 Text preprocessing techniques in NLP
 
@@ -162,7 +165,7 @@ Model deployment with Streamlit
 
 End-to-end ML pipeline development
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Try advanced models (Logistic Regression, SVM)
 
