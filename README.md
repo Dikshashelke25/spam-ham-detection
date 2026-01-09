@@ -1,4 +1,4 @@
-📩 Spam & Ham SMS Classification using NLP
+# 📩 Spam & Ham SMS Classification using NLP
 
 An end-to-end Machine Learning & NLP project that classifies SMS or email messages as Spam or Ham (Not Spam).
 The project includes EDA, preprocessing, model training, evaluation, and deployment using Streamlit.
